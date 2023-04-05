@@ -1,5 +1,5 @@
 #' ---
-#' title: Disjuntice Agreement
+#' title: Disjuntive Agreement
 #' author: 
 #'  - Phillip M. Alday, Oliver Schallert
 #' date: 2022-04-24
